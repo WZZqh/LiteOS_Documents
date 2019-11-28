@@ -2,7 +2,7 @@
 
 目前 Huawei LiteOS 内置了 **内核测试代码**，我们可以直接拿这套代码进行验证。
 
-## 添加 example 测试代码
+## 添加 example 测试代码 新的源码example更新为demos文件夹
 
 ![](./pic/raw-project-group-example.png)
 
